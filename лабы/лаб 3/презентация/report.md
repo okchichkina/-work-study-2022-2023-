@@ -1,8 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа 1
-subtitle: Настройка виртуальной машины, Git и Markdown
+title: Лабораторная работа 3
 author:
   - Чичкина Ольга, 1032217621
 institute:

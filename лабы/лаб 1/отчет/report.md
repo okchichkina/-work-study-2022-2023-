@@ -28,6 +28,9 @@ polyglossia-lang:
 	- babelshorthands=true
 polyglossia-otherlangs:
   name: english
+## I18n babel
+babel-lang: russian
+babel-otherlangs: english
 ## Fonts
 mainfont: IBM Plex Serif
 romanfont: IBM Plex Serif
